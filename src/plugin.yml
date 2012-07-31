@@ -1,0 +1,14 @@
+name: PlayerFaker
+version: 1.0
+description: Fake Players.
+author: SirAlex
+main: me.siralex.playerfaker.PlayerFaker
+
+commands:
+  fake:
+    description: Fake players.
+    
+permissions:
+    playerfaker.fake:
+        description: Fake players.
+        default: op
